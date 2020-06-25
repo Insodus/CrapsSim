@@ -2,8 +2,8 @@
 #include "GameObj.h"
 #include "Logger.h"
 #include "Player.h"
-#include "RandomGenProvider.h"
-#include "WinCryptoRandom.h"
+#include "random/RandomGenProvider.h"
+#include "random/WinCryptoRandom.h"
 
 GameObj::GameObj(void)
 {

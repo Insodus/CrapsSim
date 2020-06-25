@@ -1,4 +1,4 @@
-#include "StdAfx.h"
+#include "../StdAfx.h"
 #include "HttpRandomGen.h"
 
 #include <boost/asio/ip/tcp.hpp>

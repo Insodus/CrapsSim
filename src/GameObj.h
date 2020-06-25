@@ -1,7 +1,7 @@
 #pragma once
 
 #include "Logger.h"
-#include "RandomGenProvider.h"
+#include "random/RandomGenProvider.h"
 
 /* for ciclical dependency */
 class Player;

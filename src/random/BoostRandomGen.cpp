@@ -1,4 +1,4 @@
-#include "StdAfx.h"
+#include "../StdAfx.h"
 #include "BoostRandomGen.h"
 
 #include <boost/random/uniform_int_distribution.hpp>

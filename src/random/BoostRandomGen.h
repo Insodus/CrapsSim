@@ -1,5 +1,6 @@
 #pragma once
-#include "randomgenprovider.h"
+#include "RandomGenProvider.h"
+
 #include <boost/random/mersenne_twister.hpp>
 #include <boost/random/uniform_int_distribution.hpp>
 #include <boost/random/shuffle_order.hpp>

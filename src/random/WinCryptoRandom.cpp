@@ -1,4 +1,4 @@
-#include "StdAfx.h"
+#include "../StdAfx.h"
 #include "WinCryptoRandom.h"
 
 WinCryptoRandom::WinCryptoRandom(void)
